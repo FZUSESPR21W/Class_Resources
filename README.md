@@ -1,12 +1,12 @@
-##### 基本信息
+# 基本信息
 
 [班级博客](https://edu.cnblogs.com/campus/fzu/2021SpringSoftwareEngineeringPractice )
 
-##### 老师博客
+# 老师博客
 
-[汪璟玢老师](https://www.cnblogs.com/cocoSE/  )
+[汪璟玢老师](https://www.cnblogs.com/cocoSE/)
 
-##### 助教博客
+# 助教博客
 
 [林新宇](https://www.cnblogs.com/lxy3/)
 
