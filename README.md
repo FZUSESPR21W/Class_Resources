@@ -18,3 +18,32 @@
 
 [张璟璇](https://www.cnblogs.com/zhangadian/)
 
+# 寒假作业1
+
+[作业地址](https://edu.cnblogs.com/campus/fzu/2021SpringSoftwareEngineeringPractice/homework/11705)
+
+[作业成绩]
+
+# 寒假作业2
+
+[作业地址](https://edu.cnblogs.com/campus/fzu/2021SpringSoftwareEngineeringPractice/homework/11740)
+
+[作业成绩]
+
+# 结对作业1
+
+[作业地址](https://edu.cnblogs.com/campus/fzu/2021SpringSoftwareEngineeringPractice/homework/11785)
+
+[作业成绩]
+
+# 结对作业2
+
+[作业地址](博客园维护中)
+
+[作业成绩]
+
+# 团队作业1
+
+[作业地址](https://edu.cnblogs.com/campus/fzu/2021SpringSoftwareEngineeringPractice/homework/11848)
+
+[作业成绩]
