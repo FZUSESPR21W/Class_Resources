@@ -33,6 +33,10 @@
 
 [作业地址](https://edu.cnblogs.com/campus/fzu/2021SpringSoftwareEngineeringPractice/homework/11740)
 
+[java仓库](https://github.com/SsnAgo/PersonalProject-Java.git)
+
+[cpp仓库](https://github.com/SsnAgo/PersonalProject-C.git)
+
 [作业成绩](https://www.cnblogs.com/zhangadian/p/14563378.html)
 
 ## 优秀作业
@@ -65,10 +69,11 @@
 [01423&01427](https://www.cnblogs.com/railgunSE/p/14526428.html)、
 [01304&01331](https://www.cnblogs.com/NingMengBlog/p/14515140.html)
 
-
 # 结对作业2（未评分）
 
 [作业地址](https://edu.cnblogs.com/campus/fzu/2021SpringSoftwareEngineeringPractice/homework/11890)
+
+[作业仓库](https://github.com/siberia0015/PairProject)
 
 [作业成绩]()
 
