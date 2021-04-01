@@ -66,9 +66,9 @@
 [01304&01331](https://www.cnblogs.com/NingMengBlog/p/14515140.html)
 
 
-# 结对作业2（未截止）
+# 结对作业2（未评分）
 
-[作业地址](https://github.com/siberia0015/PairProject)
+[作业地址](https://edu.cnblogs.com/campus/fzu/2021SpringSoftwareEngineeringPractice/homework/11890)
 
 [作业成绩]()
 
@@ -78,8 +78,14 @@
 
 [作业成绩]()
 
-# 团队作业2
+# 团队作业2（未评分）
 
 [作业地址](https://edu.cnblogs.com/campus/fzu/2021SpringSoftwareEngineeringPractice/homework/11884)
+
+[作业成绩]()
+
+# 团队作业3（未评分）
+
+[作业地址](https://edu.cnblogs.com/campus/fzu/2021SpringSoftwareEngineeringPractice/homework/11898)
 
 [作业成绩]()
