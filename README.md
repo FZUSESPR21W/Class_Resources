@@ -1,6 +1,8 @@
 # 基本信息
 
-[班级博客](https://edu.cnblogs.com/campus/fzu/2021SpringSoftwareEngineeringPractice)
+[W班班级博客](https://edu.cnblogs.com/campus/fzu/2021SpringSoftwareEngineeringPractice)
+
+[S班班级博客](https://edu.cnblogs.com/campus/fzu/FZUSESPR21)
 
 # 老师博客
 
