@@ -85,7 +85,7 @@
 [01307&01327](https://www.cnblogs.com/huangmingliang/p/14598773.html)、
 [01403&01434](https://www.cnblogs.com/hxh76/p/14589350.html)
 
-# 团队作业1
+# 团队作业1 团队展示
 
 [作业地址](https://edu.cnblogs.com/campus/fzu/2021SpringSoftwareEngineeringPractice/homework/11848)
 
@@ -96,7 +96,7 @@
 [Growing light](https://www.cnblogs.com/Growinglight/p/14554883.html)、
 [创业6+1+2](https://www.cnblogs.com/chuangye612/p/14548629.html)
 
-# 团队作业2
+# 团队作业2 github编程实战
 
 [作业地址](https://edu.cnblogs.com/campus/fzu/2021SpringSoftwareEngineeringPractice/homework/11884)
 
@@ -106,8 +106,20 @@
 
 暂无
 
-# 团队作业3（未评分）
+# 团队作业3 需求分析（未评分）
 
 [作业地址](https://edu.cnblogs.com/campus/fzu/2021SpringSoftwareEngineeringPractice/homework/11898)
+
+[作业成绩]()
+
+# 团队作业4 数据库设计和系统设计（未评分）
+
+[作业地址](https://edu.cnblogs.com/campus/fzu/2021SpringSoftwareEngineeringPractice/homework/11949)
+
+[作业成绩]()
+
+# 团队作业5 站立式会议+alpha冲刺（未评分）
+
+[作业地址](https://edu.cnblogs.com/campus/fzu/2021SpringSoftwareEngineeringPractice/homework/11975)
 
 [作业成绩]()
