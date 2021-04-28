@@ -10,15 +10,15 @@
 
 # 助教博客
 
-[林新宇](https://www.cnblogs.com/lxy3/)
+[林助教](https://www.cnblogs.com/lxy3/)
 
-[杨心逸](https://www.cnblogs.com/cykablyat/)
+[杨助教](https://www.cnblogs.com/cykablyat/)
 
-[徐明盛](https://www.cnblogs.com/kofyou/)
+[徐助教](https://www.cnblogs.com/kofyou/)
 
-[孙首男](https://www.cnblogs.com/ago8910/)
+[孙助教](https://www.cnblogs.com/ago8910/)
 
-[张璟璇](https://www.cnblogs.com/zhangadian/)
+[张助教](https://www.cnblogs.com/zhangadian/)
 
 # 寒假作业1
 
