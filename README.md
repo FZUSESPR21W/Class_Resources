@@ -108,20 +108,26 @@
 
 暂无
 
-# 团队作业3 需求分析（未评分）
+# 团队作业3 需求分析
 
 [作业地址](https://edu.cnblogs.com/campus/fzu/2021SpringSoftwareEngineeringPractice/homework/11898)
 
-[作业成绩]()
+[作业成绩](https://www.cnblogs.com/zhangadian/p/14769788.html)
 
-# 团队作业4 数据库设计和系统设计（未评分）
+# 团队作业4 数据库设计和系统设计
 
 [作业地址](https://edu.cnblogs.com/campus/fzu/2021SpringSoftwareEngineeringPractice/homework/11949)
 
-[作业成绩]()
+[作业成绩](https://www.cnblogs.com/zhangadian/p/14769792.html)
 
-# 团队作业5 站立式会议+alpha冲刺（未评分）
+# 团队作业5 站立式会议+alpha冲刺
 
 [作业地址](https://edu.cnblogs.com/campus/fzu/2021SpringSoftwareEngineeringPractice/homework/11975)
+
+[作业成绩](https://www.cnblogs.com/zhangadian/p/14805314.html)
+
+# 个人作业 软件评测
+
+[作业地址](https://edu.cnblogs.com/campus/fzu/2021SpringSoftwareEngineeringPractice/homework/12003)
 
 [作业成绩]()
