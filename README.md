@@ -127,4 +127,10 @@
 
 [作业地址](https://edu.cnblogs.com/campus/fzu/2021SpringSoftwareEngineeringPractice/homework/12003)
 
+[作业成绩](https://www.cnblogs.com/zhangadian/p/14825590.html)
+
+# 团队作业6 beta冲刺+事后诸葛亮
+
+[作业地址](https://edu.cnblogs.com/campus/fzu/2021SpringSoftwareEngineeringPractice/homework/12069)
+
 [作业成绩]()
